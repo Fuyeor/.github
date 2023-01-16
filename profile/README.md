@@ -1,12 +1,8 @@
-## Hi there 👋
+## About Fuyeor.Ueiby 👋
 
-<!--
+The FUYEOR.COM is a content distribution site for mixed multimedia types of content such as news, photography, video, etc. With the mission of "integrating data, exploring the best organization mode and utilization of data, and enabling visitors to discover different wonderful things every time".
 
-**Here are some ideas to get you started:**
+[Follow Fuyeor on Social Media](https://www.fuyeor.com/en-us/follow)
+[Sitemap and Navigation](https://www.fuyeor.com/en-us/sitemaps)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![Fuyeor Logo](https://www.fuyeor.com/@assets/logo/logo.png "Fuyeor Logo")
