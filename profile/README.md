@@ -5,3 +5,4 @@ The FUYEOR.COM is a content distribution site for mixed multimedia types of cont
 [Fuyeor Official Site](https://www.fuyeor.com) · [Follow Fuyeor on Social Media](https://www.fuyeor.com/en-us/follow) · [Sitemap and Navigation](https://www.fuyeor.com/en-us/sitemaps)
 
 ![Fuyeor Logo](https://www.fuyeor.com/@assets/logo/logo.png  =50%x50%)
+<img src="https://www.fuyeor.com/@assets/logo/logo.png" width = "60%" />
