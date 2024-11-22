@@ -4,4 +4,4 @@ The [Fuyeor.com](https://www.fuyeor.com) is a social media site for mixed multim
 
 [Fuyeor Official](https://www.fuyeor.com) · [Follow Fuyeor](https://support.fuyeor.com/en/follow) · [Sitemaps](https://support.fuyeor.com/en/sitemaps)
 
-<img src="[https://www.fuyeor.com/@assets/logo/en.png](https://pic2.zhimg.com/v2-6c33b6ac4129ca28c8aeca302cfaeba1_b.jpg)" width="60%" alt="Fuyeor Logo"/>
+<img src="https://pic2.zhimg.com/v2-6c33b6ac4129ca28c8aeca302cfaeba1_b.jpg" width="60%" alt="Fuyeor Logo"/>
